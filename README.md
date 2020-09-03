@@ -1,4 +1,5 @@
-![nices gif](anim.gif)
+![cool pic](wallpaper.jpg)
+![cool gif](anim.gif)
 
 <!--
 **luismeyer/luismeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
