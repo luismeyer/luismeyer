@@ -1,5 +1,5 @@
 ![cool pic](wallpaper.jpg)
-![cool gif](anim.gif)
+![cool gif](https://steamuserimages-a.akamaihd.net/ugc/540776092004788834/1D54B876FCFC8EBDD9BE878BE4F2EB3BEC5FAAF5/)
 
 <!--
 **luismeyer/luismeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
